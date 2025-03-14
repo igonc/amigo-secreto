@@ -125,6 +125,22 @@ button {
     background-color: #a1a1a1;
 }
 
+.button-reset {
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    background-color: #ff4444;
+    color: white;
+    border: 2px solid #000;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.button-reset:hover {
+    background-color: #cc0000;
+}
+
 /* Listas */
 ul {
     list-style-type: none;
